@@ -1,6 +1,6 @@
 # Football-league-database
 
-Designing and Implementing of a Football league database
+Designing and Implementing a Football league database
 
 Under Supervision of : Dr. Amirhossein Keyhanipour
 By : Sina Mousavi
